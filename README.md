@@ -1,2 +1,2 @@
-# fetch_latlong_from_address
+# Fetch lat Long from address
 Fetch lat, long from searching address in Google Map
